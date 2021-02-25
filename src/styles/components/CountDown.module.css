@@ -70,6 +70,8 @@
 }
 
 .countDownButton:disabled {
+  display: flex;
+  flex-direction: column;
   background-color: var(--white);
   color: var(--text);
   cursor: not-allowed;
