@@ -9,6 +9,7 @@
 }
 
 .container section {
+  margin-top: 50px;
   flex: 1;
   display: grid;
   grid-template-columns: 1fr 1fr;

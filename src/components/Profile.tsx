@@ -9,7 +9,7 @@ const Profile: React.FC = () => {
     <div className={styles.profileContainer}>
       <img src="https://github.com/patricklongo1.png" alt="Avatar"/>
       <div>
-        <strong>Patrick Longo</strong>
+        <strong>Awesome User</strong>
         <p>
           <img src="icons/level.svg" alt="level"/>
           Level {level}
